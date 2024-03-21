@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'
 import { Home } from './Home.jsx'
 import { Consumo } from './Consumo.jsx'
 import { Carrousel } from './Carrousel.jsx'
+import { RickAndMorty } from './RickAndMorty.jsx'
 import './index.css'
 
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
   {
     path: "/Carrousel",
     element: <Carrousel />,
+  },
+  {
+    path: "/Rm",
+    element: <RickAndMorty />,
   },
 ]);
 
