@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Leopardo",
+        "desc": "Animal selvagem",
+        "value": "23.100,00",
+        "image": "../../src/assets/images/leopardo.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cachorro",
+        "desc": "Animal de estimação",
+        "value": "2.000,00",
+        "image": "../../src/assets/images/cachorro.webp"
+    },
+    {
+        "id": 3,
+        "name": "Golfinho",
+        "desc": "Animal selvagem",
+        "value": "12.000,00",
+        "image": "../../src/assets/images/golfinho.webp"
+    },
+    {
+        "id": 4,
+        "name": "Bicho preguiça",
+        "desc": "Animal selvagem",
+        "value": "31.100,00",
+        "image": "../../src/assets/images/sesi.webp"
+    },
+    {
+        "id": 5,
+        "name": "Tucano",
+        "desc": "Animal selvagem",
+        "value": "54.500,00",
+        "image": "../../src/assets/images/tucano.jpg"
+    }
+]
